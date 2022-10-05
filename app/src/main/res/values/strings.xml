@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyPaint</string>
+    <string name="confirm">confirmar</string>
+    <string name="cancel">cancelar</string>
+</resources>
